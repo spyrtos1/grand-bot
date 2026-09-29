@@ -90,14 +90,13 @@ below to whoever drafts for you (or sketch it yourself), specifying:
 
 ### 80-word bio (submit under 80 words)
 
-> Spyros Anastasiou is a Cypriot sculptor based in Carrara, Italy, working in marble,
-> stone, wood, bronze and ceramic. His practice has moved increasingly toward land art
-> and site-built structures, most recently Fortezza, a shelter built on site for Silvae
-> Fragmenta Vol. 4 in Ottati, Italy. His work treats quarrying, migration and partition as
-> related processes: material and people moved, cut, and re-set in new ground. He trained
-> and works in one of the world's oldest marble-extraction regions.
+> Spyros Anastasiou (b. 1990, Cyprus) trained in wood, bronze and clay from age six under
+> sculptor Spyroula Skordi, and later studied sculpture at the Accademia di Belle Arti di
+> Carrara, where he now works in marble, stone, wood, bronze and ceramic. His public work
+> is held by the Museum of Modern Art, Cyprus. In 2026 his practice turns to land art
+> with Fortezza, a shelter built on site for Silvae Fragmenta Vol. 4 in Ottati, Italy.
 
-(77 words.)
+(76 words.)
 
 ### 70-word answer: "How does your project tackle Alternative Geographies?"
 
@@ -115,27 +114,92 @@ Needs images + short captions from Spyros. Fortezza (Silvae Fragmenta Vol. 4, Ot
 should be one of the three — it's the direct precedent for this proposal's logic
 (site-built shelter/structure rather than a freestanding sculpture).
 
-### CV — 2 pages max, skeleton only (no invented facts)
+### CV — 2 pages max, from the CV Spyros supplied
 
 ```
 SPYROS ANASTASIOU
-Sculptor — marble, stone, wood, bronze, ceramic, land art
-Based: Carrara, Italy
-Citizenship: Cyprus
+Sculptor
+b. 1990, Cyprus · Lives and works in Carrara, Italy
 
 EDUCATION
-[fill in: institution, years, qualification]
+2019–20  Diploma Accademico di Secondo Livello (first year)
+         Accademia di Belle Arti di Carrara — with Prof. Pier Giorgio Balocchi
+2013–15  Bachelor of Fine Arts in Sculpture
+         Accademia di Belle Arti di Carrara — thesis advisor Prof. Pier Giorgio
+         Balocchi; commendation of the jury
+2009–10  Bachelor in Business Management and Tourism (first year), Sunderland
+         University, UK
+2005–06  Foundation Course, University for the Creative Arts (UCA Farnham), UK
 
-SELECTED WORKS / EXHIBITIONS / RESIDENCIES
-2026 — Fortezza, site-built shelter, Silvae Fragmenta Vol. 4, Ottati, Italy
-[fill in: earlier works, with years and venues]
+PRIVATE STUDY & APPRENTICESHIPS
+1996–2007  Spyroula Skordi, Limassol, Cyprus — sculpture in wood, bronze and
+           clay, student and apprentice from age six to seventeen
+2005–07    Sylvia Woodcock-Clarke, Psematismenos, Cyprus — painting
+c. 2005–07 Polys Peslikas, Limassol, Cyprus — painting (Peslikas later
+           represented Cyprus at the 57th Venice Biennale, 2017)
+2006–11    Valentinos Charalambous, Limassol, Cyprus — ceramics
 
-AWARDS / GRANTS (if any)
-[fill in]
+SOLO EXHIBITIONS
+2022  The Alchemy of Story Telling, Art Seen, Nicosia, Cyprus
+
+GROUP EXHIBITIONS
+2021  All That I Need Is the Air That I Breathe, Art Seen, Nicosia, Cyprus
+2020  Yesterday, Today and Forever, Art Seen, Nicosia, Cyprus
+2019  Attempts to Escape, Art Seen, Nicosia, Cyprus
+2019  Antifragile, Forme nel Verde, Siena, Italy
+2019  Sculpture de Carrara, Carrara, Italy
+
+RESIDENCIES
+2026  Silvae Fragmenta Vol. 4, Ottati (SA), Monti Alburni, Italy — land art
+      residency [forthcoming]
+2021  Beus100 Residency / Workshop, Goethe-Institut, Nicosia, Cyprus
+2011  LT Ranch Project, Lithuania
+
+SYMPOSIA
+2020  Simposio Carrara–Avenza, Italy
+2019  Simposio Via Francigena, Carrara, Italy
+2019  Simposio Scultura in Marmo sul Web, Baicchi Luciano S.r.l., Carrara, Italy
+2018  Segni Scolpiti, Montignoso, Italy
+
+PUBLIC WORKS & COMMISSIONS
+2022  Museum of Modern Art, Cyprus
+2020  Avenza, Italy
+2019  Green Beach, Montignoso, Italy
+
+TEACHING & MENTORING
+2021–23  Recurring sculpture workshops, private studio, Psematismenos, Cyprus
+         — for Goethe-Institut residency alumni and Cyprus University of
+         Technology students; individual mentoring of emerging sculptors
+
+PROFESSIONAL EXPERIENCE
+2026–    Sculptor, Laboratorio Menconi, Carrara, Italy — studio practice;
+         ongoing series of marble crow sculptures
+2020–23  Lab Assistant, Department of Fine Arts, Cyprus University of
+         Technology
+2021–22  Researcher, Department of Fine Arts, Cyprus University of Technology
+         — moulding in permanent materials (cement, ash, waterproof cement,
+         epoxy)
+2019     Assistant, creative team of Virgilio Sieni — public performance,
+         marble preparation
+2019     Invigilator, Cypriot Pavilion, La Biennale di Venezia
+2017     Art Ambassador & General Assistant, Cypriot Pavilion, La Biennale
+         di Venezia
+
+SKILLS
+Sculpture: wood, stone and marble carving; metal; plaster and moulding;
+ceramics. Drawing, painting, printmaking (silkscreen, etching, monotype).
+Photography (analogue and digital). Adobe Photoshop, Microsoft Office, AutoCAD.
+
+LANGUAGES
+Greek (native) · Italian (fluent) · English (fluent)
 
 CONTACT
-[address, phone, email, website]
+spyrtos1@gmail.com · +357 99 888 873 (CY) · +39 338 155 8821 (IT)
+linkedin.com/in/spyros-anastasiou1 · @spyrtos1
 ```
+
+This runs to roughly one page at normal CV formatting — comfortably inside the 2-page
+limit, so nothing needs cutting for space.
 
 ---
 
@@ -172,6 +236,6 @@ mortar), this is straightforward to write honestly:
    guidelines PDF — confirm site dimensions, fee (2025 was CAD 5,000+15,000+5,000=25,000;
    do not assume this repeats), and submission format haven't changed.
 2. Produce (or commission) the layout plan, 2 elevations, and rendering.
-3. Fill in the real CV.
-4. Select and caption 3 recent works, including Fortezza, with photos.
-5. Decide whether to submit in English or French (either is accepted).
+3. Select and caption 3 recent works, including Fortezza, with photos — CV is now filled
+   in above, but the works schema still needs actual images.
+4. Decide whether to submit in English or French (either is accepted).

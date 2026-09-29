@@ -131,12 +131,29 @@ The dossier asks for visuals alongside the technical sheet. Needed:
 
 ## 7. Bio (for the fiche de candidature)
 
-> Spyros Anastasiou is a Cypriot sculptor based in Carrara, Italy, working in marble,
-> stone, wood, bronze and ceramic, with a growing land art practice. His most recent
-> work, Fortezza, was a site-built shelter created for Silvae Fragmenta Vol. 4 in Ottati,
-> Italy. His practice treats stone as something that carries the history of where it was
-> cut, and his work increasingly asks what changes when that material is set into a
-> different landscape.
+> Spyros Anastasiou (b. 1990, Cyprus) is a sculptor based in Carrara, Italy, working in
+> marble, stone, wood, bronze and ceramic. Apprenticed in wood, bronze and clay from age
+> six in Cyprus, he later trained at the Accademia di Belle Arti di Carrara. His public
+> work is held by the Museum of Modern Art, Cyprus. Fortezza, a site-built shelter
+> created in 2026 for Silvae Fragmenta Vol. 4 in Ottati, marks his move toward land art.
+
+### CV summary (if the platform asks for one alongside the bio)
+
+```
+Spyros Anastasiou — Sculptor, b. 1990, Cyprus. Lives and works in Carrara, Italy.
+
+Education: BFA Sculpture, Accademia di Belle Arti di Carrara (2013–15, jury
+commendation); Diploma Accademico di Secondo Livello, same institution (2019–20,
+first year).
+
+Selected: solo show The Alchemy of Story Telling, Art Seen, Nicosia (2022); public
+commission, Museum of Modern Art, Cyprus (2022); Beus100 Residency, Goethe-Institut,
+Nicosia (2021); Cypriot Pavilion, La Biennale di Venezia (2017, 2019); Fortezza,
+site-built shelter, Silvae Fragmenta Vol. 4, Ottati, Italy (2026).
+
+Languages: Greek (native), Italian (fluent), English (fluent).
+Contact: spyrtos1@gmail.com · +39 338 155 8821 (IT) · +357 99 888 873 (CY)
+```
 
 ---
 
@@ -166,10 +183,12 @@ The dossier asks for visuals alongside the technical sheet. Needed:
 
 ### Bio
 
-> Spyros Anastasiou est un sculpteur chypriote installé à Carrare, en Italie, travaillant
-> le marbre, la pierre, le bois, le bronze et la céramique, avec une pratique de land art
-> grandissante. Son œuvre la plus récente, Fortezza, était un abri construit sur site
-> pour Silvae Fragmenta Vol. 4 à Ottati, en Italie.
+> Spyros Anastasiou (né en 1990, Chypre) est un sculpteur installé à Carrare, en Italie,
+> travaillant le marbre, la pierre, le bois, le bronze et la céramique. Formé dès l'âge
+> de six ans au bois, au bronze et à l'argile à Chypre, il a ensuite étudié à l'Accademia
+> di Belle Arti di Carrara. Une de ses œuvres publiques est conservée au Musée d'Art
+> Moderne de Chypre. Fortezza, un abri construit sur site en 2026 pour Silvae Fragmenta
+> Vol. 4 à Ottati, marque son tournant vers le land art.
 
 ---
 
@@ -178,7 +197,8 @@ The dossier asks for visuals alongside the technical sheet. Needed:
 1. Register on horizons.wiin.io and download the real 2027 dossier — confirm the fee,
    exact required documents, and any page/word limits (none were confirmed here).
 2. Email Justine Oulié to ask about local stone sourcing before finalizing the budget.
-3. Produce a simple plan/section sketch and gather Fortezza photos.
+3. Produce a simple plan/section sketch and gather Fortezza photos — bio and CV summary
+   are now filled in above.
 4. Decide whether to submit in French, English, or both.
 5. If accepted, Culture Moves Europe could top up travel — but only if its next call
    (expected autumn 2026, not yet open as of this writing) opens before the trip.
